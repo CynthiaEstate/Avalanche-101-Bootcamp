@@ -26,8 +26,8 @@ https://build.avax.network/console/primary-network/faucet
 deployed at : 0x772800B6ECbAD47C3346F8ce0Be08EDF89D5cf14
 
 截图：
-![task2_artist398_depoly1](./images/task2_artist398_depoly1.png)
-![task2_artist398_depoly2](./images/task2_artist398_depoly2.png)
+![task2_artist398_deploy1](./images/task2_artist398_deploy1.png)
+![task2_artist398_deploy2](./images/task2_artist398_deploy2.png)
 合约验证：
 ![task2_artist398_verify](./images/task2_artist398_verify.png)
 前端：
