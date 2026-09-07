@@ -4,8 +4,6 @@
 > 训练营：[Team1 Avalanche Builder Launchpad](https://openbuild.xyz/learn/challenges/2108370654)
 > 截止提交：<9月13日> 24:00:00 (UTC+8)
 
-本文内容基于 **OpenBuild x Team1 联合举办的 Team1 Avalanche Builder Launchpad** 训练营课程学习笔记整理。该训练营专为 Web3 与 AI 新手打造，共 7 节系统课程，讲师包括 Bala（Herstory Founder）、Kylin、Andrew Chen、Seek（DappLink Founder）、Scott（Kite AI CTO）等。完成课程可获得官方 Bootcamp NFT 毕业凭证，并有机会参与黑客松赢取 USDT 奖励。
-
 ---
 
 ## ① 定位：我们做的 Swap 在 DeFi 里是哪一环
@@ -79,7 +77,3 @@ DeFi 的发展大致经历了从「交易」到「借贷」再到「衍生品」
 ---
 
 **总结**：课程中的 Swap 是 DeFi 的基石，提供了最原初的点对点流动性；而借贷和期货则是在此之上的金融放大器。理解了 XY=K 和流动性池的逻辑后，再去看 AAVE 的借贷池和 dYdX 的永续合约，会发现它们本质上是「用价格预言机替代了常数乘积公式，用保证金和清算替代了固定兑换比例」——都是代码化的金融规则，只是风险模型和适用场景不同。
-
----
-
-*本文为 Team1 Avalanche Builder Launchpad（[openbuild.xyz/learn/challenges/2108370654](https://openbuild.xyz/learn/challenges/2108370654)）课程学习作业。训练营面向 Web3 与 AI 新手，共 7 节系统课程，讲师包括 Bala（Herstory Founder）、Kylin、Andrew Chen、Seek（DappLink Founder）、Scott（Kite AI CTO）等。完成课程可获得官方 Bootcamp NFT 毕业凭证，并有机会参与黑客松赢取 USDT 奖励。*
